@@ -10,7 +10,7 @@ An advanced module of source code review is designed for the participants that w
 
 ## How to Participate
 
-If you want to register this seminar, please send a registration email to Jun Chen (chenjun2013@ruc.edu.cn) with the subject as “DL Seminar” and provide the information: **Name, Student No., Email, Participating Modules (Basic or Basic+Advanced)**.
+If you want to register this seminar, please send a registration email to Jun Chen (chenjun2013@ruc.edu.cn) with the subject as “**DL Seminar**” and provide the information: **Name, Student No., Email, Participating Modules (Basic or Basic+Advanced)**.
 
 A Github repo (https://github.com/JunChenRUC/Deep-Learning-Seminar) is set up for storing and sharing the materials in the seminar, including readings, slides, source code, and etc. And the Wiki page, https://github.com/JunChenRUC/Deep-Learning-Seminar/wiki, will publish the latest news. 
 
